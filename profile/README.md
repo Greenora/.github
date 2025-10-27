@@ -31,5 +31,5 @@
 - 버그 수정 브랜치 : bug-fix/#이슈번호
 
 ## Docs
-Notion - https://www.notion.so/2025-2-Nest-294052ad29dc80b8a431c70bec1c7d46?source=copy_link
-Figma - https://www.figma.com/design/AiMOEEkjsHNRulGMNYta4z/SoonEats?node-id=0-1&t=Kx0nFG2bgqm8GwZl-1
+[Notion](https://www.notion.so/2025-2-Nest-294052ad29dc80b8a431c70bec1c7d46?source=copy_link)
+[Figma](https://www.figma.com/design/AiMOEEkjsHNRulGMNYta4z/SoonEats?node-id=0-1&t=Kx0nFG2bgqm8GwZl-1)
