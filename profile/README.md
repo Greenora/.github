@@ -15,6 +15,21 @@
 
 [참고 문헌](https://velog.io/@diduya/git-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-Git-Flow-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-git-branch-repository)
 
+```
+GitHub
+├── frontend-repo (Next.js)
+│   ├── feature/*  ← 새로운 기능 개발
+│   ├── develop    ← 통합 테스트용
+│   ├── release/*  ← 릴리즈 준비
+│   └── main       ← 실제 배포용
+│
+└── backend-repo (Nest.js)
+    ├── feature/*
+    ├── develop
+    ├── release/*
+    └── main
+```
+
 ### 전략 설명
 1. main 브랜치
 2. main 을 소스로한 develop 브랜치
