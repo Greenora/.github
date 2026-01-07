@@ -1,13 +1,13 @@
 # Greenora
 
-## 커밋 규칙
-- 🎉init: 프로젝트 시작
-- ✨feat: 새로운 기능 추가, 기존의 기능을 요구 사항에 맞추어 수정 커밋
-- 🐛fix: 기능에 대한 버그 수정 커밋
-- 🛠️refactor: 기능의 변화가 아닌 코드 리팩터링 ex) 변수 이름 변경
-- ✏️chore: 패키지 매니저 수정, 그 외 기타 수정 ex) .gitignore
-- 📄docs: 문서(주석) 수정
-- 🥂release : 버전 릴리즈
+## 📝 Gachimura Commit Convention
+- ✨ feat : 새로운 기능 추가 (ex. ✨ feat: 로그인 기능 구현구
+- 🐛 fix : 버그 수정 (ex. 🐛 fix: 무한 스크롤 오류 수정)
+- 💄 design : CSS 등 사용자 UI 디자인 변경 (ex. 💄 design: 메인 버튼 색상 변경)
+- ♻️ refactor : 코드 리팩토링 (기능 변경 없음) (ex. ♻️ refactor: 페이지 컴포넌트 분리)
+- 📝 docs : 문서 수정 (README.md, 주석 등) (ex. 📝 docs: API 명세서 업데이트)
+- ✏️ chore : 빌드 업무 수정, 패키지 매니저 설정 등 (코드 변경 없음) (ex. ✏️ chore: framer-motion 패키지 추가)
+- 🔨 style : 코드 포맷팅, 세미콜론 누락 등 (코드 변경 없음) (ex. 🔨 style: 코드 들여쓰기 정리)
 
 
 
