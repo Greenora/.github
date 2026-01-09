@@ -11,7 +11,7 @@
 
 
 ## 스웨거 문서 
-backend-url/api-doc
+backend-url/api-docs
 
 
 ## Docs
